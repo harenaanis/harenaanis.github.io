@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://harenaanis.github.io/sitemap.xml
